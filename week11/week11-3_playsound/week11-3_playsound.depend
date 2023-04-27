@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682578175 source:c:\users\administrator\desktop\week11-3_playsound\main.cpp
+	<windows.h>
+	<stdio.h>
+
+1682579533 source:c:\users\administrator\desktop\week11-3_playsound\week11-3_sound.cpp
+	<windows.h>
+	<stdio.h>
+
