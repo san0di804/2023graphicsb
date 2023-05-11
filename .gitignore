@@ -14,7 +14,8 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-#*.dll
+# 註解
+# *.dll
 
 # Fortran module files
 *.mod
@@ -23,8 +24,8 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
+# *.a
+# *.lib
 
 # Executables
 *.exe
