@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <GL/glut.h>
+#include "glm.h"
+GLMmodel *  head = NULL;
+
 float teapotX=0,teapotY=0;
 FILE * fout =NULL;
 FILE * fin =NULL;
